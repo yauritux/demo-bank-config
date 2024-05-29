@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Hey, welcome to cards related prod APIs"
+  contactDetails:
+    name: "Yauri Attamimi - Software Architect"
+    email: "yauritux@gmail.com"
+  onCallSupport:
+    - (62) 822 2525 1437 

@@ -1,0 +1,10 @@
+build:
+  version: "1.0-SNAPSHOT"
+
+cards:
+  message: "Welcome to cards related local APIs "
+  contactDetails:
+    name: "Yauri Attamimi - Developer"
+    email: "yauritux@gmail.com"
+  onCallSupport:
+    - (62) 822 2525 1437 

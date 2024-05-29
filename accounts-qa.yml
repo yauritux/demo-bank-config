@@ -1,0 +1,10 @@
+build:
+  version: "1.0-RC"
+
+accounts:
+  message: "Welcome to accounts related QA APIs "
+  contactDetails:
+    name: "Yauri Attamimi - Software Architect"
+    email: "yauritux@gmail.com"
+  onCallSupport:
+    - (62) 822 2525 1437 

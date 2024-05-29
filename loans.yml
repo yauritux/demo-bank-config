@@ -1,0 +1,10 @@
+build:
+  version: "1.0-SNAPSHOT"
+
+loans:
+  message: "Welcome to loans related local APIs "
+  contactDetails:
+    name: "Yauri Attamimi - Software Architect"
+    email: "yauritux@gmail.com"
+  onCallSupport:
+    - (62) 822 2525 1437 
