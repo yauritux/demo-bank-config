@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hey, welcome to accounts related webhook APIs"
+  message: "Hey, welcome to accounts related production APIs"
   contactDetails:
     name: "Yauri Attamimi - Software Architect"
     email: "{cipher}0f6ff1a993cbbe65d91e3c1c173296e0cbff8ff898f76682426fa2744ed480910b209903a1b41b7cd007e941f55b3132"
